@@ -103,7 +103,9 @@ index a092450..2123152 100644
 ![pull request and merge](pull-and-merge.PNG)
 
 
-### second assignment with merge conflicts
+### second assignment with merge conflicts includiing screen shots
 
 
-### inducing the merge conflicts and resolving them in the web interface
+### screenshot inducing the merge conflicts and adding the screenshot for the second assignment (pull request and merge)
+![pull request and merge with conflicts](merge-conflict.PNG)
+
