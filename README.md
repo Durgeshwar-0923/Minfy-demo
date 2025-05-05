@@ -101,7 +101,7 @@ Done
 # merge conflict in web interface
 ![merge conflict in web interface](mergeconflict2.PNG)
 # merge succeful after resolving conflict
-![merge succeful after resolving conflict](mergeconflict2.PNG)
+![merge succeful after resolving conflict](mergeconflict3.PNG)
 
 
 ### screenshot inducing the merge conflicts and adding the screenshot for the second assignment (in vs code)
