@@ -1,9 +1,9 @@
 My name is Upputuri Durgeshwar
 college name - sreenidhi Institute of Science and Technology
 college place - Yamnampet
-Native place- Medchal
+Native place- Nagole,Hyderabad
 surname - Upputuri
 topic - assignment 1 for git
 laptop-Macbook
-date-05/05/2025
+date-06/05/2025
 done
