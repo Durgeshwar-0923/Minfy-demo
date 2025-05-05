@@ -1,3 +1,4 @@
+## merge history
 c63e9dd - docs(Assign.txt) : Updated Native Place and date (durgeshwar-0923, 2025-05-05)
 66c78c9 - docs(Assign.txt) : updated name and college place (durgeshwar-0923, 2025-05-05)
 88d8a1f - docs : updated the Native Place and Laptop (durgeshwar-0923, 2025-05-05)
@@ -35,6 +36,8 @@ Date:   Mon May 5 13:40:04 2025 +0530
 
     Initial Commit
 
+
+## git diff output
  Assign.txt | 9 +++++++++
  1 file changed, 9 insertions(+)
 diff --git a/Assign.txt b/Assign.txt
@@ -93,16 +96,14 @@ index a092450..2123152 100644
 \ No newline at end of file
 ![Git Commit History](commit-history.PNG)
 
-before pull request
 
 
-###second Assignment
-
-
-
+### second assignment
 
 ![pull request and merge](pull-and-merge.PNG)
 
-##with merge conflicts and resolving them
+
+### second assignment with merge conflicts
 
 
+inducing the merge conflicts
