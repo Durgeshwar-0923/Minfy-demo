@@ -106,4 +106,4 @@ index a092450..2123152 100644
 ### second assignment with merge conflicts
 
 
-### inducing the merge conflicts and adding the screenshot for the second assignment (pull request and merge)
+### screenshot inducing the merge conflicts and adding the screenshot for the second assignment (pull request and merge)
