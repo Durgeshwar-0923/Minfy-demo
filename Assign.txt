@@ -1,9 +1,9 @@
 My name is Durgeshwar
 college name - sreenidhi Institute of Science and Technology
 college place - Ghatkesar
-Native place- Hyderabad
+Native place- Medchal
 surname - Upputuri
 topic - assignment 1 for git
-laptop-thinkpad
+laptop-Macbook
 date-05/05/2025
 done
