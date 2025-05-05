@@ -36,64 +36,56 @@ Date:   Mon May 5 13:40:04 2025 +0530
 
     Initial Commit
 
-
 ## git diff output
- Assign.txt | 9 +++++++++
- 1 file changed, 9 insertions(+)
-diff --git a/Assign.txt b/Assign.txt
-index 4b705e0..2123152 100644
---- a/Assign.txt
-+++ b/Assign.txt
-@@ -1,9 +1,9 @@
- My name is Upputuri Durgeshwar
- college name - sreenidhi Institute of Science and Technology
- college place - Yamnampet
--Native place- Medchal
-+Native place- Nagole,Hyderabad
- surname - Upputuri
- topic - assignment 1 for git
- laptop-Macbook
--date-05/05/2025
-+date-06/05/2025
- done
-\ No newline at end of file
-diff --git a/Assign.txt b/Assign.txt
-index 4b705e0..2123152 100644
---- a/Assign.txt
-+++ b/Assign.txt
-@@ -1,9 +1,9 @@
- My name is Upputuri Durgeshwar
- college name - sreenidhi Institute of Science and Technology
- college place - Yamnampet
--Native place- Medchal
-+Native place- Nagole,Hyderabad
- surname - Upputuri
- topic - assignment 1 for git
- laptop-Macbook
--date-05/05/2025
-+date-06/05/2025
- done
-\ No newline at end of file
-diff --git a/Assign.txt b/Assign.txt
-index a092450..2123152 100644
---- a/Assign.txt
-+++ b/Assign.txt
-@@ -1,9 +1,9 @@
--My name is Durgeshwar
-+My name is Upputuri Durgeshwar
- college name - sreenidhi Institute of Science and Technology
--college place - Ghatkesar
--Native place- Hyderabad
-+college place - Yamnampet
-+Native place- Nagole,Hyderabad
- surname - Upputuri
- topic - assignment 1 for git
--laptop-thinkpad
--date-05/05/2025
-+laptop-Macbook
-+date-06/05/2025
- done
-\ No newline at end of file
+My name is Upputuri Durgeshwar  
+College name - Sreenidhi Institute of Science and Technology  
+College place - Yamnampet  
+Native place - Nagole, Hyderabad  
+Surname - Upputuri  
+Topic - Assignment 1 for Git  
+Laptop - MacBook  
+Date - 06/05/2025  
+Done  
+
+diff --git a/Assign.txt b/Assign.txt  
+index 4b705e0..2123152 100644  
+--- a/Assign.txt  
++++ b/Assign.txt  
+@@ -1,9 +1,9 @@  
+My name is Upputuri Durgeshwar  
+College name - Sreenidhi Institute of Science and Technology  
+College place - Yamnampet  
+-Native place- Medchal  
++Native place- Nagole, Hyderabad  
+Surname - Upputuri  
+Topic - Assignment 1 for Git  
+Laptop - MacBook  
+-Date-05/05/2025  
++Date-06/05/2025  
+Done  
+\ No newline at end of file  
+
+diff --git a/Assign.txt b/Assign.txt  
+index a092450..2123152 100644  
+--- a/Assign.txt  
++++ b/Assign.txt  
+@@ -1,9 +1,9 @@  
+-My name is Durgeshwar  
++My name is Upputuri Durgeshwar  
+College name - Sreenidhi Institute of Science and Technology  
+-College place - Ghatkesar  
+-Native place - Hyderabad  
++College place - Yamnampet  
++Native place - Nagole, Hyderabad  
+Surname - Upputuri  
+Topic - Assignment 1 for Git  
+-Laptop - ThinkPad  
+-Date - 05/05/2025  
++Laptop - MacBook  
++Date - 06/05/2025  
+Done  
+\ No newline at end of file  
+
 ![Git Commit History](commit-history.PNG)
 
 
