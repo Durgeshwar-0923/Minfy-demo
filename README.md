@@ -107,3 +107,4 @@ index a092450..2123152 100644
 
 
 ### screenshot inducing the merge conflicts and adding the screenshot for the second assignment (pull request and merge)
+![pull request and merge with conflicts](merge-conflict.PNG)
