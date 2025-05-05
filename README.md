@@ -103,4 +103,6 @@ before pull request
 
 ![pull request and merge](pull-and-merge.PNG)
 
+##with merge conflicts and resolving them
+
 
