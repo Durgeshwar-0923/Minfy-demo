@@ -100,10 +100,13 @@ index a092450..2123152 100644
 
 ### second assignment
 
-![pull request and merge](pull-and-merge.PNG)
+![pull request and merge in vs code](pull-and-merge.PNG)
 
 
-### second assignment with merge conflicts includiing screen shots
+### second assignment with merge conflicts
+![merge conflict after creating pull request](mergeconflict1.PNG)
+![merge conflict in](mergeconflict2.PNG)
+![merge succeful after resolving conflict](mergeconflict2.PNG)
 
 
 ### screenshot inducing the merge conflicts and adding the screenshot for the second assignment (pull request and merge)
